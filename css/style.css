@@ -1,0 +1,61 @@
+*{
+    margin: 0 ;
+    box-sizing: border-box;
+
+
+}
+
+nav{
+    position: fixed;
+    height: 80px;
+    width: 100%;
+    background-color: grey;
+
+
+}
+a{
+    color: white;
+    text-decoration: none;
+    transition: 0.5s;
+    line-height: 80px;
+    margin: 0 10px;
+}
+
+a:hover{
+    text-decoration: underline;
+    font-size: 22px;
+}
+body{
+    background-color: orange;
+
+
+}
+img{
+    height: 200px;
+    float: bottom;
+    display: block;
+    margin-bottom: 20px;
+
+
+
+
+}
+
+h1{
+    text-align: center;
+    color: red;
+    top: 100px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    position: relative;
+    text-decoration: underline blue 2px;
+
+
+}
+
+h2{
+    margin-bottom: 20px;
+    text-align: center;
+
+}
